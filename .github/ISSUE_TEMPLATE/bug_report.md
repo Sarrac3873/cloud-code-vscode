@@ -9,9 +9,21 @@ assignees: ''
 
 **Environment**:
 *(Hint: "Report Extension Issue on Github" command will fill these out for you.)*
-Extension version:
+
+
+**Version information**
+
+Cloud Code Extension version:
+
 VSCode version:
+
 OS: 
+
+Cloud SDK:
+
+Skaffold: 
+
+Kubectl:
 
 **Description**:
 
